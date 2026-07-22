@@ -1,5 +1,5 @@
 ![Mantle logo](https://raw.github.com/SlimeKnights/Mantle/master/src/main/resources/Mantle.png)  
-# Mantle  
+# Mantle  Revived
 **Shared code for Forge mods**
 
 ## Compile from Source
