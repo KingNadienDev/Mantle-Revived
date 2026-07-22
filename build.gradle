@@ -1,11 +1,3 @@
-/*
- * Mantle
- * Master build file
- * Based on TConstruct's master build file
- * Authors: Sunstrike, ProgWML6
- * Help from AbrarSyed
-*/
-
 plugins {
     id 'java-library'
     id 'eclipse'
@@ -40,7 +32,7 @@ repositories {
 
 group = 'slimeknights.mantle'
 base {
-    archivesName = 'Mantle'
+    archivesName = 'MantleRevived'
 }
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
